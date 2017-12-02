@@ -20,7 +20,7 @@
   },
   {
     "question": "What was the name of Anakin Skywalker&#39s mother?",
-    "answer": "shmi "
+    "answer": "shmi skywalker "
   },
   {
     "question": "What was Kylo Ren&#39s real name?",
@@ -28,7 +28,7 @@
   },
   {
     "question": "Name the Mon Calamari Admiral that led the rebel attack at the Battle of Endor.",
-    "answer": "admiral ackbar acbar akbar "
+    "answer": "admiral ackbar admiral acbar admiral akbar "
   },
   {
     "question": "Obi-wan tracked Jango Fett to a planet located in an extragalactic star system. Name that planet.",
@@ -40,7 +40,7 @@
   },
   {
     "question": "What type of crystal powered lightsabers?",
-    "answer": "kyber kaiburr "
+    "answer": "kyber kyberr kaibur kaiburr kaiber kaiberr "
   },
   {
     "name": "Enter your name..."

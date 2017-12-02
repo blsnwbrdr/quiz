@@ -143,7 +143,7 @@ $(document).ready(function() {
           });
         for(var x = 0; x < scores.length; x++) {
           // GET SCORES GREATER THAN 5
-          if(scores[x].score > 5) {
+          if(scores[x].score >= 7) {
             // PUSH THE HIGH SCORES TO NEW ARRAY
             newArray.push('<div class="highName">' + scores[x].name + '</div><div class="highScore">' + scores[x].score + '</div>');
             $('#listScores').html(newArray);
